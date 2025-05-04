@@ -13,5 +13,7 @@ env/
 # Secrets
 config.py
 config.py*
+**src/config.py**
+
 # 忽略 data 下所有 CSV 文件
 src/data/*.csv
